@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AdoptaPet/static/css/main.420eae14.css",
+    "main.js": "/AdoptaPet/static/js/main.b38c5d1e.js",
+    "static/media/toys-banner.png": "/AdoptaPet/static/media/toys-banner.683ea275c6706b52e069.png",
+    "static/media/main-banner.png": "/AdoptaPet/static/media/main-banner.0242443497f7fd43ae16.png",
+    "static/media/bone-banner.jpg": "/AdoptaPet/static/media/bone-banner.52096121a0c413b2203b.jpg",
+    "index.html": "/AdoptaPet/index.html",
+    "main.420eae14.css.map": "/AdoptaPet/static/css/main.420eae14.css.map",
+    "main.b38c5d1e.js.map": "/AdoptaPet/static/js/main.b38c5d1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.420eae14.css",
+    "static/js/main.b38c5d1e.js"
+  ]
+}

@@ -1,4 +1,4 @@
-# Adopt a Pet 浪浪回家了 （ 施工中 🚨 ）
+# Adopt a Pet 浪浪回家了 （ 部分功能施工中 🚨 ）
 
 靜態畫面
 ![Index page about Adopt a Pet](./public/screenshot.png)

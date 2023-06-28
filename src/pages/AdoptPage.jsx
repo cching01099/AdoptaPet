@@ -30,7 +30,7 @@ const AdoptPage = () => {
     : null;
 
   return (
-    <div style={{ minHeight: "100vh" }}>
+    <div className="container" style={{ minHeight: "100vh" }}>
       <div className="cards-wrapper">
         {filteredData &&
           filteredData.map((data) => {

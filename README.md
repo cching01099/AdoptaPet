@@ -48,4 +48,4 @@
 
 ## 🎮 立即體驗
 
-點按即可進入：
+點按即可進入：https://cching01099.github.io/AdoptaPet/

@@ -6,10 +6,11 @@ import HomePage from "./pages/HomePage";
 import Page404 from "./pages/Page404";
 import FavPage from "./pages/FavPage";
 import AdoptPage from "./pages/AdoptPage";
+const basename = process.env.PUBLIC_URL;
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />}></Route>
